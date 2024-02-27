@@ -2,7 +2,7 @@
 
 Hey guys, 
 
-This is Daniel, a student of Business Engineering in Germany and Finland. I´m interested in data security topics. On my GitHub profile I publish my homework for my university. 
+This is Daniel, a student of Business Engineering in Germany and Finland. I´m interested in data security topics. On my GitHub account I publish my assignments for university. 
 
-Best regards, 
-Daniel:)
+Have fun and happy hacking! 
+Cheers, Daniel:)
